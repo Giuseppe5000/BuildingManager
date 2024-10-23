@@ -1,0 +1,101 @@
+[
+    {
+        "manufactor": "Btcino",
+        "model": "N38N1",
+        "precision": 97,
+        "range": [
+            0,
+            50
+        ],
+        "type": "brightness",
+        "visualField": 350
+    },
+    {
+        "manufactor": "Lutron",
+        "model": "POWR-57",
+        "precision": 85,
+        "range": [
+            0,
+            50
+        ],
+        "type": "brightness",
+        "visualField": 330
+    },
+    {
+        "manufactor": "Renke",
+        "microphone": 0,
+        "model": "RS-ZS-N01",
+        "precision": 90,
+        "range": [
+            30,
+            120
+        ],
+        "type": "noise"
+    },
+    {
+        "manufactor": "Sentec",
+        "microphone": 3,
+        "model": "SEM41",
+        "precision": 97.5,
+        "range": [
+            10,
+            150
+        ],
+        "type": "noise"
+    },
+    {
+        "manufactor": "Siemens",
+        "model": "HI360",
+        "precision": 90,
+        "range": [
+            -10,
+            55
+        ],
+        "resistance": 50,
+        "type": "temperature"
+    },
+    {
+        "manufactor": "Somfy",
+        "model": "A12",
+        "precision": 60,
+        "range": [
+            -5,
+            40
+        ],
+        "resistance": 38.5,
+        "type": "temperature"
+    },
+    {
+        "manufactor": "Maclean",
+        "model": "10T",
+        "precision": 60,
+        "range": [
+            0,
+            50
+        ],
+        "type": "brightness",
+        "visualField": 250
+    },
+    {
+        "manufactor": "Sensirion",
+        "microphone": 2,
+        "model": "Sht40i",
+        "precision": 78,
+        "range": [
+            20,
+            80
+        ],
+        "type": "noise"
+    },
+    {
+        "manufactor": "Electrolux",
+        "model": "2ST",
+        "precision": 86,
+        "range": [
+            -5,
+            50
+        ],
+        "resistance": 40,
+        "type": "temperature"
+    }
+]

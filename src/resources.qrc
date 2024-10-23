@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>assets/icon.svg</file>
+    <file>assets/stylesheet.qss</file>
+    <file>assets/icons/brightness.svg</file>
+    <file>assets/icons/noise.svg</file>
+    <file>assets/icons/temperature.svg</file>
+    <file>assets/icons/open.svg</file>
+    <file>assets/icons/save.svg</file>
+    <file>assets/icons/edit.svg</file>
+    <file>assets/icons/delete.svg</file>
+    <file>assets/icons/saveAs.svg</file>
+    <file>assets/icons/close.svg</file>
+    <file>assets/icons/addSensor.svg</file>
+</qresource>
+</RCC>
